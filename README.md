@@ -1,6 +1,6 @@
 # rankMyHospital
 
-## Introduction
+## 💡Introduction
 
 This R project analyzes hospital performance across the U.S.
 
