@@ -79,4 +79,4 @@ robust input validation, custom sorting logic, and practical
 data wrangling skills in R.
 
 For a more detailed project description and documentation,
-please see the Notion page here: https://www.notion.so/RankMyHospital-228434ba3323800680c3e68959efde52?source=copy_link
+please see the Notion page here: [https://www.notion.so/RankMyHospital-228434ba3323800680c3e68959efde52?source=copy_link](https://ten-christmas-260.notion.site/RankMyHospital-228434ba3323800680c3e68959efde52?source=copy_link)
